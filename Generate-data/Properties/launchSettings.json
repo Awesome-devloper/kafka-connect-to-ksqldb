@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Generate-data": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
